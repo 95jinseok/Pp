@@ -11,7 +11,6 @@ public class SplashActivity extends Activity {
         setContentView(R.layout.layout2);
         startLoading();
     }
-
     private void startLoading(){
         Handler handler = new Handler();
         handler.postDelayed(new Runnable() {
@@ -19,7 +18,7 @@ public class SplashActivity extends Activity {
             public void run() {
                 finish();
             }
-        }, 3000);
+        }, 2000);
     }
 
 }
