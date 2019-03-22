@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         mTabLayout.addTab(mTabLayout.newTab().setText("b"));
         mTabLayout.addTab(mTabLayout.newTab().setText("c"));
         mTabLayout.addTab(mTabLayout.newTab().setText("d"));
-        mTabLayout.addTab(mTabLayout.newTab().setText("e"));
+        mTabLayout.addTab(mTabLayout.newTab().setText("qqqqqqq"));
 
 
 
